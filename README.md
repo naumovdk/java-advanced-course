@@ -1,4 +1,6 @@
-[Условия](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
+##Мои решения по [курсу](https://www.kgeorgiy.info/courses/java-advanced/index.html) технологий программирования java  
+####[Условия](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)  
+#### Темы
 
 - **Ввод-вывод**  
 Пакет: walk  
